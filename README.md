@@ -7,14 +7,13 @@ You work as a risk management associate at Alphabet Soup, a venture capital firm
 
 ---
 # About this repo: 
-
 <img width="733" alt="Screen Shot 2022-08-01 at 8 53 29 PM" src="https://user-images.githubusercontent.com/101449950/182268987-6c700b0c-0bc5-4ace-9602-f8467c678fd1.png">
 
 <b>Resource Folder:</b> This has the data-set that is central to this effort `applicant_data.csv`
 
-<img width="588" alt="Screen Shot 2022-08-01 at 8 52 47 PM" src="https://user-images.githubusercontent.com/101449950/182269143-a53dbac9-6012-4106-9e91-0f86857b9901.png">
-
 <b>Contents Folder:</b> this folder has all the HDF5 file generated:
+
+<img width="588" alt="Screen Shot 2022-08-01 at 8 52 47 PM" src="https://user-images.githubusercontent.com/101449950/182269143-a53dbac9-6012-4106-9e91-0f86857b9901.png">
 
 
 ---
