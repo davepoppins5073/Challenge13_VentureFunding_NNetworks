@@ -1,4 +1,7 @@
 # Venture Funding with Deep Learning
+![13-4-challenge-image](https://user-images.githubusercontent.com/101449950/182268374-34476611-3ca5-403d-9c50-9a912c1024c4.png)
+
+
 ## User Story:
 You work as a risk management associate at Alphabet Soup, a venture capital firm. Alphabet Soup’s business team has asked you to create a model that predicts whether applicants will be successful if funded by Alphabet Soup.
 
