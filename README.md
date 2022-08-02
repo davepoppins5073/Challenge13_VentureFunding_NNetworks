@@ -1,10 +1,18 @@
 # Venture Funding with Deep Learning
-## Summary:
+## SUsery:
 You work as a risk management associate at Alphabet Soup, a venture capital firm. Alphabet Soup’s business team has asked you to create a model that predicts whether applicants will be successful if funded by Alphabet Soup.
 
-## Resources:
+---
+
+## Code
+### Resources:
 
 `applicant_data.csv` - a csv of applicants who have received funding from Alphabet Soup over the years. The CSV file contains a variety of information about these businesses, including whether or not they ultimately became successful
+
+### Imports
+```python
+
+```
 
 ## To - Do:
 
