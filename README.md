@@ -41,7 +41,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler,OneHotEncoder
 ```
 
-### Part 1: Data Prep
+## Part 1: Data Prep
 1. Review the df, looking for categorical variables that will need to be encoded.
 2. Drop the “EIN” (Employer Identification Number) and “NAME” columns from the `df`.
 
