@@ -38,7 +38,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler,OneHotEncoder
 ```
 
-### Data Prep
+### Part 1: Data Prep
 1. Review the df, looking for categorical variables that will need to be encoded.
 2. Drop the “EIN” (Employer Identification Number) and “NAME” columns from the `df`.
 
@@ -141,3 +141,14 @@ file_path = "/content/DP_AlphabetSoup.h5"
 nn.save_weights(file_path)
 from google.colab import drive
 ```
+
+### Part 3: Optimize the Neural Network Model
+<b>Comparing Accuracy Scores</b>
+1. Alternative Model 1 - Accuracy: 0.53
+2. Alternative Model 2 - Accuracy: 0.73
+
+**Note**: Perfect accuracy has a value of 1. Optimizing your model for a predictive needs an accuracy to be as close to 1 as possible. 
+
+For my first Alternative model I reducted the number of features being looked at through PCA (Principle component analysis). More specifically we reduced the components and used standard scaler to normalize the data and continued with the same process used in the original model. The PCA method didnt improve anything but forced me to give thouight to how many components were necessary. 
+
+The Second Alternative Model I had an extra layer this didnt improve the accuracy much as the accuracy score for the original model was Accuracy: 0.729912519454956. I used the same process as the previous code  so there wasnt as much need to  go over the steps here again
